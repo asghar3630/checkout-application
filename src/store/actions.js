@@ -1,0 +1,15 @@
+// action - customization reducer
+export const SET_MENU = '@customization/SET_MENU';
+export const MENU_SELECTED = '@customization/MENU_SELECTED';
+export const SUB_MENU_SELECTED = '@customization/SUB_MENU_SELECTED';
+export const MENU_TOGGLE = '@customization/MENU_TOGGLE';
+export const MENU_OPEN = '@customization/MENU_OPEN';
+export const SET_FONT_FAMILY = '@customization/SET_FONT_FAMILY';
+export const SET_BORDER_RADIUS = '@customization/SET_BORDER_RADIUS';
+export const CLEAR_MENU = '@customization/CLEAR_MENU';
+export const SELECTED_SITES_IN_PRODUCTION = '@customization/SELECTED_SITES_IN_PRODUCTION';
+export const BATCH_PAYLOAD = '@customization/BATCH_PAYLOAD';
+export const BATCH_SUMMARY = '@customization/BATCH_SUMMARY';
+export const MAP_REGION_SELECTED = '@heartbeat/MAP_REGION_SELECTD';
+export const IS_BATCH_CREATED = '@customization/IS_BATCH_CREATED';
+export const IS_SITE_SELECTED = '@customization/IS_SITE_SELECTED';
